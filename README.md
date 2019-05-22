@@ -2,4 +2,4 @@ This is a simple WHOIS HTTP server written in `Go` that runs on AppEngine. You c
 
 For more advanced information and accurate details I suggest you try a premium service such as [Infoip](https://infoip.io).
 
-Relevant article covering this tool at: 
+Relevant article covering this tool at our [how to create a WHOIS server](https://scrapebot.com/how-to-create-your-own-whois-server/) article.
